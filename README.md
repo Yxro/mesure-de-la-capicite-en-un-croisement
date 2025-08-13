@@ -1,4 +1,4 @@
-ENGLISH
+ENGLISH:
 An Arduino code that periodically measures the capacitance value at a crossing, it is easy to see that the capacitance depends on the distance between the finger and the electrode.
 the photos are examples of my own prototype.
 
